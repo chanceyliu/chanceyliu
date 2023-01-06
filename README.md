@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ## View
 
 <p>
-  <a href="https://github.com/joriewong/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats-seven-lovat.vercel.app/api?username=joriewong&show_icons=true&theme=vue">
+  <a href="https://github.com/chanceyliu/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats-seven-lovat.vercel.app/api?username=chanceyliu&show_icons=true&theme=vue">
   </a>
-  <a href="https://github.com/joriewong/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats-seven-lovat.vercel.app/api/top-langs/?username=joriewong&layout=compact&theme=vue" />
+  <a href="https://github.com/chanceyliu/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats-seven-lovat.vercel.app/api/top-langs/?username=chanceyliu&layout=compact&theme=vue" />
   </a>
 </p>
