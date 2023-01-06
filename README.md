@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://github.com/chanceyliu/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats-seven-lovat.vercel.app/api?username=chanceyliu&show_icons=true&theme=vue">
+    <img height=175 align="center" src="https://github-readme-stats-seven-lovat.vercel.app/api?username=chanceyliu&show_icons=true&theme=react">
   </a>
   <a href="https://github.com/chanceyliu/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats-seven-lovat.vercel.app/api/top-langs/?username=chanceyliu&layout=compact&theme=vue" />
+  <img height=175 align="center" src="https://github-readme-stats-seven-lovat.vercel.app/api/top-langs/?username=chanceyliu&layout=compact&theme=react" />
   </a>
 </p>
