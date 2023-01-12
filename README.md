@@ -4,14 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3) ![Less](https://img.shields.io/badge/-Less-333333?style=flat&logo=less)
+- 🌱 I’m currently learning ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
+- 👯 I’m looking to collaborate on ![Web3](https://img.shields.io/badge/-Web3-red) ![Coin](https://img.shields.io/badge/-Coin-red) ![NFT](https://img.shields.io/badge/-NFT-red)
+- 🤔 I’m looking for help with ![Money](https://img.shields.io/badge/-Money-green)
+- 📫 How to reach me: ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Twitter](https://img.shields.io/badge/-Twiteer-333333?style=flat&logo=twitter)
 
 
 ## View
@@ -24,3 +21,9 @@ Here are some ideas to get you started:
   <img height=175 align="center" src="https://github-readme-stats-seven-lovat.vercel.app/api/top-langs/?username=chanceyliu&layout=compact&theme=react" />
   </a>
 </p>
+
+## About
+
+- [Blog](https://blog.chanceyliu.com/)
+- [Coin](https://coin.chanceyliu.com/)
+- [Twitter](https://twitter.com/)
