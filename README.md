@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 ## About
 
 - [Blog](https://blog.chanceyliu.com/)
-- [Coin](https://coin-tool.vercel.app/)
+- [Web3](https://coin-tool.vercel.app/)
 - [Twitter](https://twitter.com/)
